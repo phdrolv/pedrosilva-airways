@@ -730,7 +730,10 @@ textarea {
 .site-blocks-table {
   overflow: auto; }
   .site-blocks-table .product-thumbnail {
-    width: 200px; }
+    margin-left: =50%;
+    text-align: center;
+    display: inline-block;
+    width: 340%; }
   .site-blocks-table .btn {
     padding: 2px 10px; }
   .site-blocks-table thead th {
@@ -751,7 +754,192 @@ textarea {
     background: none !important;
     color: #000000;
     border: none;
-    height: auto !important; }
+    height: 200px !important; }
+
+    .product-name1 img {
+      margin-top: 7%;
+      margin-left: 30%;
+      width: 40%;
+    }
+    .product-name1 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name2 img {
+      margin-top: 5%;
+      margin-left: 0%;
+      width: 100%;
+    }
+    .product-name2 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name3 img {
+      margin-top: 2%;
+      margin-left: 50%;
+      width: 100%;
+    }
+    .product-name3 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name4 img {
+      margin-top: 4%;
+      margin-left: 0%;
+      width: 40%;
+    }
+    .product-name4 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name5 img {
+      margin-top: 0%;
+      margin-left: -100%;
+      width: 50%;
+    }
+    .product-name5 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name6 img {
+      margin-top: 5%;
+      margin-left: 30%;
+      width: 30%;
+    }
+    .product-name6 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name7 img {
+      margin-top: 5%;
+      margin-left: 0%;
+      width: 100%;
+    }
+    .product-name7 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name8 img {
+      margin-top: 5%;
+      margin-left: 50%;
+      width: 100%;
+    }
+    .product-name8 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name9 img {
+      margin-top: 5%;
+      margin-left: 0%;
+      width: 40%;
+    }
+    .product-name9 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name10 img {
+      margin-top: 5%;
+      margin-left: -100%;
+      width: 100%;
+    }
+    .product-name10 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name11 img {
+      margin-top: 0%;
+      margin-left: 30%;
+      width: 40%;
+    }
+    .product-name11 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name12 img {
+      margin-top: 5%;
+      margin-left: 0%;
+      width: 100%;
+    }
+    .product-name12 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name13 img {
+      margin-top: 5%;
+      margin-left: 50%;
+      width: 100%;
+    }
+    .product-name13 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name14 img {
+      margin-top: 5%;
+      margin-left: 0%;
+      width: 30%;
+    }
+    .product-name14 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name15 img {
+      margin-top: 5%;
+      margin-left: -100%;
+      width: 100%;
+    }
+    .product-name15 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name16 img {
+      margin-top: 5%;
+      margin-left: 30%;
+      width: 50%;
+    }
+    .product-name16 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name17 img {
+      margin-top: 5%;
+      margin-left: -0%;
+      width: 100%;
+    }
+    .product-name17 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name18 img {
+      margin-top: 5%;
+      margin-left: 50%;
+      width: 100%;
+    }
+    .product-name18 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name19 img {
+      margin-top: 5%;
+      margin-left: 5%;
+      width: 50%;
+    }
+    .product-name19 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+    .product-name20 img {
+      margin-top: 10%;
+      margin-left: -95%;
+      width: 66%;
+    }
+    .product-name20 img:hover {
+      transition: 0.4s;
+      transform: scale(1.1);
+    }
+
+    .anchor {
+      float: right;
+    }
 
 .site-block-order-table th {
   border-top: none !important;
