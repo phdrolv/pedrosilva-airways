@@ -400,6 +400,11 @@ a {
         grid-row: 6 / span 27;
         padding-top: 20px; }
 
+span img {
+  width: 4%;
+  margin-top: -3%;
+}
+
 .custom-list {
   width: 100%; }
   .custom-list li {
